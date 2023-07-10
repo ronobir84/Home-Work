@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header-main{
+    background: url('../new-year-new-me/images/banner/banner1.png');
+    height: 700px;
+}
+.header-info{
+    text-align: right;
+    padding-top: 280px;
+    width: 1400px;
+}
+.header-titel{
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 600px;
+    margin-right: 4px;
+}
+.header-dicp{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.header-btn{
+    background-color: orangered;
+    padding: 17px 27px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 0px;
+    margin-right: 50px;
+    margin-top: 5px;
+    color: white;
+}
+.section-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 70px 0px;
+}
+.main-img{
+    width: 300px;
+    border-radius: 50%;
+    background-color: lightpink;
+}
+.main-titel{
+    font-size: 30px;
+    font-weight: 400px;
+    margin-bottom: 20px;
+
+}
+.main-dicp{
+    font-size: 18px;
+    font-weight: 200px;
+    margin-bottom: 20px;
+}
+.main-ul{
+    margin-left: 16px;
+    font-size: 18px;
+    font-weight: 300px;
+}
+.my-plans{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 40px;
+}
+.skils{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 0px;
+}
+.icons{
+    width: 200px;
+    text-align: center;
+}
+.icons-title{
+    margin: 10px 0px;
+    font-weight: 300px;
+    font-size: 22px;
+}
