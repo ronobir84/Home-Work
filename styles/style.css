@@ -77,3 +77,51 @@
     font-weight: 300px;
     font-size: 22px;
 }
+.last-baner{
+    height: 150px;
+    width: 800px;
+    margin: 150px 150px 0px 300px;
+    background-image: url('../new-year-new-me/images/watch.png');
+    padding: 50px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+}
+.last-title{
+    font-size: 30px;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+.baner-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0px;
+}
+.main-footer{
+    background-color: black;
+    color: #fff;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.footre-about{
+    margin-top: 130px;
+}
+.footer-title{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.input-type{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.footer-btn{
+    padding: 9px 13px;
+    background-color: orangered;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 15px;
+    color: #fff;
+}
